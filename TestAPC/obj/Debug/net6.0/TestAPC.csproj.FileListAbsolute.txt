@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\TestAPC\bin\Debug\net6.0\TestAPC.exe
+C:\Users\pc\source\repos\TestAPC\bin\Debug\net6.0\TestAPC.deps.json
+C:\Users\pc\source\repos\TestAPC\bin\Debug\net6.0\TestAPC.runtimeconfig.json
+C:\Users\pc\source\repos\TestAPC\bin\Debug\net6.0\TestAPC.dll
+C:\Users\pc\source\repos\TestAPC\bin\Debug\net6.0\TestAPC.pdb
+C:\Users\pc\source\repos\TestAPC\obj\Debug\net6.0\TestAPC.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\TestAPC\obj\Debug\net6.0\TestAPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\TestAPC\obj\Debug\net6.0\TestAPC.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\TestAPC\obj\Debug\net6.0\TestAPC.AssemblyInfo.cs
+C:\Users\pc\source\repos\TestAPC\obj\Debug\net6.0\TestAPC.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TestAPC\obj\Debug\net6.0\TestAPC.dll
+C:\Users\pc\source\repos\TestAPC\obj\Debug\net6.0\refint\TestAPC.dll
+C:\Users\pc\source\repos\TestAPC\obj\Debug\net6.0\TestAPC.pdb
+C:\Users\pc\source\repos\TestAPC\obj\Debug\net6.0\TestAPC.genruntimeconfig.cache
+C:\Users\pc\source\repos\TestAPC\obj\Debug\net6.0\ref\TestAPC.dll
